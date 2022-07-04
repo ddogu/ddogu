@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on having a course on data engineering by Duke.
+- 🔭 I’m currently working on having a course on data engineering by Duke.
 - 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on anything actually.
 - 📫 How to reach me: @ddogu on Instagram.
